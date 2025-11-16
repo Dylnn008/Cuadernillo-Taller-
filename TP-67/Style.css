@@ -1,0 +1,25 @@
+div{
+    display: flex;
+    background-color: lightblue;
+    width: auto;
+    height: auto;
+    justify-content: space-evenly;
+    align-items: center;
+}
+h2{
+    color: navy;
+}
+a{
+    display: flex;
+    text-decoration: none;
+    margin: 10px;
+    padding: 15px;
+    border: 1px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+a:hover{
+    color: red;
+}
